@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Mtodo/static/css/main.9483f376.css",
-    "main.js": "/Mtodo/static/js/main.00b0017e.js",
+    "main.js": "/Mtodo/static/js/main.f3392619.js",
     "static/media/Mcli.mp3": "/Mtodo/static/media/Mcli.324c6cbfd22447b67a24.mp3",
     "index.html": "/Mtodo/index.html",
     "main.9483f376.css.map": "/Mtodo/static/css/main.9483f376.css.map",
-    "main.00b0017e.js.map": "/Mtodo/static/js/main.00b0017e.js.map"
+    "main.f3392619.js.map": "/Mtodo/static/js/main.f3392619.js.map"
   },
   "entrypoints": [
     "static/css/main.9483f376.css",
-    "static/js/main.00b0017e.js"
+    "static/js/main.f3392619.js"
   ]
 }
